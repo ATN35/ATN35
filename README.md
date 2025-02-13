@@ -1,17 +1,19 @@
-<div align="center">
-
 ### Hi there 👋
+
+   ---
+
+### 🧰 Langages, Frameworks et Outils
+
+<p align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30px" style="padding-right:10px;" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30px" style="padding-right:10px;" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30px" style="padding-right:10px;" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30px" style="padding-right:10px;" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30px" style="padding-right:10px;" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30px" style="padding-right:10px;" />
+</p>
+
+   ---
+   
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ATN35?cardType=github&theme=blue-green&preferLogin=false&Text=1EFF29&Title=1EFF29&Background=000000&Border=1EFF29&Ring=1EFF2950)](https://git.io/awesome-stats-card)
-
-<a href="https://github.com/ATN35" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px; display: block; margin: 0 auto;" />
-</a>
-<a href="https://www.linkedin.com/in/ATN35" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/ATN35" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="margin-bottom: 5px;" />
-</a>
-
-</div>
 
